@@ -4,7 +4,7 @@
 
 Este projeto é uma API REST desenvolvida com Flask para gerenciar pacientes, profissionais de saúde e consultas médicas. Ele permite operações CRUD (Create, Read, Update, Delete) para cada entidade e usa Flask-SQLAlchemy para persistência de dados com SQLite.
 
-## **Demonstração do Projeto**
+## **Demonstração do Projeto (clique abaixo para acessar o vídeo)**
 
 [![Demonstração do Projeto Consulta Fácil](https://github.com/AndrePereira03/consultaFacil/blob/AndrePereira03-patch-1/assets/testando-bd.gif?raw=true)](https://www.youtube.com/watch?v=QgzlOASWok8)
 
