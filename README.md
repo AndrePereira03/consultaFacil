@@ -1,18 +1,18 @@
 # 🏥 **Sistema de Gerenciamento de Pacientes e Consultas**
+
 ## 📌 **Descrição**:
 
 Este projeto é uma API REST desenvolvida com Flask para gerenciar pacientes, profissionais de saúde e consultas médicas. Ele permite operações CRUD (Create, Read, Update, Delete) para cada entidade e usa Flask-SQLAlchemy para persistência de dados com SQLite.
 
 ## **Demonstração do Projeto**
 
-[![Demonstração do Projeto Consulta Fácil](https://img.youtube.com/vi/QgzlOASWok8/maxresdefault.jpg)](https://www.youtube.com/watch?v=QgzlOASWok8)
-
+[![Demonstração do Projeto Consulta Fácil](https://github.com/AndrePereira03/consultaFacil/blob/AndrePereira03-patch-1/assets/testando-bd.gif?raw=true)](https://www.youtube.com/watch?v=QgzlOASWok8)
 
 ## ✅ **Principais funcionalidades:**
 
-- Cadastro, listagem, atualização e remoção de pacientes.  
-- Cadastro, listagem, atualização e remoção de profissionais de saúde.  
-- Agendamento, atualização de status e cancelamento de consultas médicas.  
+- Cadastro, listagem, atualização e remoção de pacientes.
+- Cadastro, listagem, atualização e remoção de profissionais de saúde.
+- Agendamento, atualização de status e cancelamento de consultas médicas.
 - API RESTful com suporte a CORS.
 
 ## **🚀 Como Rodar o Projeto**
@@ -37,7 +37,7 @@ python main.py
 
 Se tudo estiver certo, a saída será algo como:
 
-- Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)  
+- Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 - A API estará disponível no endereço http://127.0.0.1:5000/.
 
 A página inicial deverá exibir a mensagem:
@@ -47,8 +47,8 @@ A página inicial deverá exibir a mensagem:
 
 pytest -v testes.py
 
-
 ## **🛠 Tecnologias Utilizadas**
+
 - Python 3.8+
 - Flask 3.1.0
 - Flask-SQLAlchemy
@@ -56,8 +56,6 @@ pytest -v testes.py
 - SQLite
 - Pytest para testes automatizados
 
-
 ## **📜 Licença**
+
 Este projeto é de código aberto e está sob a licença MIT.
-
-
